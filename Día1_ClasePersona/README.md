@@ -14,12 +14,3 @@ La clase `Persona` debe tener:
 2. Un **método** que imprima los valores en pantalla.  
 3. En el `main`, se deben crear dos personas y mostrar sus datos.  
 
-### 📂 Archivos  
-- `Persona.java` → Contiene la clase `Persona` con el constructor y el método `mostrarInformacion()`.  
-- `Main.java` → Contiene la ejecución principal, donde se crean dos personas y se imprimen sus datos.  
-
-### 💻 Ejecución  
-Para compilar y ejecutar el código:  
-```sh
-javac Persona.java Main.java
-java Main
